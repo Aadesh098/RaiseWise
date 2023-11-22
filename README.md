@@ -13,8 +13,6 @@ Deployment Link - [https://sih-crowdfunding.vercel.app/](https://raise-wise.verc
 <br>
 ![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/a40e37f5-9c46-4735-b975-c0f396baf5d3)
 <br>
-![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/5eb457fd-c128-4080-b525-8db4296f19b7)
-<br>
 ![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/059eeb8d-25e6-4100-9d12-96afaa2319a6)
 <br>
 ![image](https://github.com/Aadesh098/RaiseWise/assets/48157409/32542128-59ab-42cc-acff-8c7028a3979f)
